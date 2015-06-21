@@ -1,7 +1,7 @@
 ##CodeBook
 
 Variables
-\ndata_columns: data table of measurement titles loaded from features.txt of the UCI Human Activity Recognition dataset
+data_columns: data table of measurement titles loaded from features.txt of the UCI Human Activity Recognition dataset
 colnames: extracts measurement titles from the data_columns data table
 std: numeric vector of column numbers corresponding to columns that contain standard deviation measurements
 mn: numeric vector of column numbers corresponding to columns that contain mean measurements
