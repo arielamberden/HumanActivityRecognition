@@ -1,5 +1,5 @@
 # HumanActivityRecognition
-#### Created for the Getting and Cleaning Data course offered by Johns Hopkins Univeristy through Coursera
+Created for the Getting and Cleaning Data course offered by Johns Hopkins Univeristy through Coursera
 ####
 #### The purpose of the project is to become familiar with getting and cleaning data to produce a tidy data set in which
 #### each column represents one characteristic of the set of objects and each row represents an object. The data used
